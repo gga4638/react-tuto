@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ex-vlpt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notice-board" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/origin-todolist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todolist" vcs="Git" />
+  </component>
+</project>
